@@ -16,7 +16,7 @@ class App extends Component {
                     <div>
                         <div className="Title">Profile</div>
                         <div>
-                            <div>Chirakid Kaweesirikon [Aum]</div>
+                            <div>Chirakid Kaweesirikon [Aum] </div>
                             <div>Email : aum.chirakid@gmail.com</div>
                             <div>Phone : 0827639234</div>
                         </div>
